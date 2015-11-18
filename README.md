@@ -5,6 +5,7 @@ This project was made to provide an example that implements Coordinator Layout f
 
 Used Library:
 - http://developer.android.com/intl/es/tools/support-library/features.html#design
+- http://jakewharton.github.io/butterknife/
 
 To do this example, I followed this tutorial and tips:
 
