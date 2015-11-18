@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_marginTop="@dimen/fab_margin_small"
+    android:layout_marginRight="@dimen/fab_margin"
+    android:layout_marginLeft="@dimen/fab_margin"
+    android:id="@+id/cardview_layout"
+    android:layout_marginBottom="@dimen/fab_margin_small"
+    android:layout_width="match_parent" android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:padding="@dimen/fab_margin"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/text1"
+            android:text="@string/item_holder"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/text2"
+            android:layout_marginTop="@dimen/fab_margin"
+            android:text="@string/item_holder"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+
+
+</android.support.v7.widget.CardView>
