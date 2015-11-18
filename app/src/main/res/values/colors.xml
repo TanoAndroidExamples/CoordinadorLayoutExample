@@ -6,4 +6,5 @@
 
     <color name="primary">#6e6254</color>
     <color name="primaryDark">#44413a</color>
+    <color name="fab">#a48d6b</color>
 </resources>
